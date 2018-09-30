@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{9F28FAFF-BDF8-F5E9-92D9-42CD79D53EE0}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Forsaken/Scripts/ClickToContinue.cs">
+    <Files>
+      <File FileName="Assets/Forsaken/Scripts/Player.cs" Line="11" Column="36" />
+      <File FileName="Assets/Forsaken/Scripts/PlayerController.cs" Line="22" Column="12" />
+      <File FileName="Assets/Forsaken/Scripts/CameraFollow.cs" Line="15" Column="26" />
+      <File FileName="Assets/Forsaken/Scripts/Collectible.cs" Line="17" Column="16" />
+      <File FileName="Assets/Forsaken/Scripts/RandomSprite.cs" Line="21" Column="62" />
+      <File FileName="Assets/Forsaken/Scripts/Explode.cs" Line="26" Column="18" />
+      <File FileName="Assets/Forsaken/Scripts/Debris.cs" Line="26" Column="24" />
+      <File FileName="Assets/Forsaken/Scripts/MoveForward.cs" Line="18" Column="3" />
+      <File FileName="Assets/Forsaken/Scripts/LookForward.cs" Line="25" Column="39" />
+      <File FileName="Assets/Forsaken/Scripts/FloatEffect.cs" Line="7" Column="9" />
+      <File FileName="Assets/Forsaken/Scripts/ClickToContinue.cs" Line="13" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
